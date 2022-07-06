@@ -1,4 +1,4 @@
-# TemporalAlignmentWithYolkForScale
+# Temporal Registration of Early Zebrafish Embryos Using Biological Prior Knowledge
 
 
 This is the repository for the paper "Temporal Registration of Early Zebrafish Embryos Using Biological Prior Knowledge". You can use this repository to reproduce all experiments and evaluations and to follow a Python implementation of the approach described in the paper. Please cite the paper when using our work.
