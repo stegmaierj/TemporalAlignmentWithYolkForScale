@@ -7,7 +7,7 @@ This is the repository for the paper "Temporal Registration of Early Zebrafish E
 
 Install the package with 
 
-_pip install -r requirements.txt_
+`pip install -r requirements.txt`
 
 
 ## Usage
