@@ -38,7 +38,7 @@ At the moment, there is no ready-made version that you can simply install via pi
 
 ## Support
 
-Write `ina.laube@lfb.rwth-aachen.de` or `johannes.stegmaier@lfb.rwth-aachen.de` or create a GitHub Issue if you need any help / run into any issues.
+Write ina.laube@lfb.rwth-aachen.de or johannes.stegmaier@lfb.rwth-aachen.de or create a GitHub Issue if you need any help / run into any issues.
 
 ## Authors and Acknowledgments
 
