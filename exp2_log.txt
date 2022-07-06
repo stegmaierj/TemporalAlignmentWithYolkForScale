@@ -1,0 +1,28 @@
+number of outliers 0, number of not outliers: 10000 
+number of outliers 0, number of not outliers: 10000 
+number of outliers 0, number of not outliers: 10000 
+size x after outlier remoavle: (10000,) 
+number of outliers 0, number of not outliers: 10000 
+size x after outlier remoavle: (10000,) 
+number of outliers 0, number of not outliers: 10000 
+number of outliers 0, number of not outliers: 10000 
+number of outliers 0, number of not outliers: 10000 
+size x after outlier remoavle: (10000,) 
+number of outliers 0, number of not outliers: 10000 
+size x after outlier remoavle: (10000,) 
+number of outliers 0, number of not outliers: 10000 
+number of outliers 0, number of not outliers: 100000 
+number of outliers 0, number of not outliers: 100000 
+number of outliers 0, number of not outliers: 100000 
+number of outliers 6, number of not outliers: 994 
+number of outliers 0, number of not outliers: 10000 
+number of outliers 0, number of not outliers: 10000 
+number of outliers 0, number of not outliers: 10000 
+number of outliers 0, number of not outliers: 10000 
+size x after outlier remoavle: (10000,) 
+number of outliers 0, number of not outliers: 10000 
+size x after outlier remoavle: (10000,) 
+number of outliers 0, number of not outliers: 10000 
+number of outliers 0, number of not outliers: 10000 
+number of outliers 0, number of not outliers: 10000 
+number of outliers 0, number of not outliers: 10000 
