@@ -14,7 +14,7 @@ Install the package with
 
 ### Redoing the Experiments from the Paper:
 
-There are scripts for conducting the experiments from the paper in the main folder, also for creating the figures, finding the features (yolk approximation and size) and registration based on these features. For redoing the experiments you still need the original data, please contact us via email (ina.laube@lfb.rwth-aachen.de or johannes.stegmaier@lfb.rwth-aachen.de) to get the zebrafish embryos in the used file format (original from [1]).
+There are scripts for conducting the experiments from the paper in the main folder, finding the features (yolk approximation and size) and registration based on these features. For redoing the experiments you still need the original data, please contact us via email (ina.laube@lfb.rwth-aachen.de or johannes.stegmaier@lfb.rwth-aachen.de) to get the zebrafish embryos in the used file format (original from [1]).
 
 * The sphere evaluation experiments meantioned in the paper can be redone with the scripts `evaluate_sphere_features_exp1` and `evaluate_sphere_feature_exp2`
 * The synthetic data can be created with the `create_data_with_known_shifts` script
